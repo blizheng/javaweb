@@ -5,7 +5,7 @@
 
 ####这是一张相对路径的图片
 
-![0](images/timg.jpg)
+![img0](images/timg.jpg)
 
 ####这是一张绝对路径的图片：
 
